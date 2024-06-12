@@ -1,4 +1,5 @@
-# vuetify-admin-template
+# vuetify-newbie
+vue2, VsCode, vuetify2
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# vuetify-newbie
+vue2, VsCode, vuetify2
